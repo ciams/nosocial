@@ -1,4 +1,4 @@
-# nosocial: Get to the point (and it’s okay!)
+# Get to the point (and it’s okay!)
 I was recently reintroduced to the *nohello* concept and I'm reminded how much I appreciate it! Like everyone who spends a lot of time online for their job, I've seen too many "Hi" messages left hanging in space, a greeting with nothing else. 
 
 If you haven't seen what I'm talking about, take a moment to go check out [Sebastien's page](https://github.com/sbmueller) or [nohello.com](http://www.nohello.com/). It’s worth a quick read.
