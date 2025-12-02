@@ -11,4 +11,4 @@ Are you busy?
 </pre>
 I don’t dislike social touchpoints—I'm a chatty man. I think they’re great when paired with real content. What I’m trying to avoid are messages that are *only* social with nothing else. If you’ve got an update, action, or insight, include that so the thread stays useful. Chat isn’t the same as in-person or phone. For work-related questions, getting straight to the point is okay — no offense taken if you skip the greeting. 👍
 
-Acknowledgements: This is a fork on [leadfollowmove/nosocial](https://github.com/leadfollowmove/nosocial) which is in turn adapted from Sebastien’s copy of the original nohello.com site. Opinions here are mine, not my employer’s. Source is public on GitHub.
+Acknowledgements: This is a fork of [leadfollowmove/nosocial](https://github.com/leadfollowmove/nosocial) which is in turn adapted from Sebastien’s copy of the original nohello.com site. Opinions here are mine, not my employer’s. Source is public on GitHub.
